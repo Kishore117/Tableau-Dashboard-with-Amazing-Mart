@@ -1,5 +1,5 @@
 # Tableau-Dashboard-with-Amazing-Mart
-Analyzing the data and creating the dashboard.
+Analyzing the data and finding which customers are profitable, creating the dashboard.
 # Step by Step Analysis of Data
 1) Map Based on Longititude and Latitude. Color Shows Profit Margin. Size shows sum of Sales. Details are shown for Country and State. The data is filtered on Order Date Year, which keeps 2012
 
